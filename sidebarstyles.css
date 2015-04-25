@@ -1,0 +1,26 @@
+.outerwrapper {
+    background-color: white;
+    font-family: 'Roboto Slab';
+    padding: 5px;
+    }
+
+p {
+    color: #B31217;
+    }
+    
+#contactus, #special, #hosting {
+    display: none;
+    color: #B31217;
+    margin-left: 10px;
+    font-size: 12px;
+    }
+
+.emailopener, .introopener, .hosts {
+    border: 1px solid black;
+    background-color: transparent;
+    cursor: pointer;
+    color: #B31217;
+    font-weight: bold;
+    outline: none;
+    margin: 3px;
+    }
